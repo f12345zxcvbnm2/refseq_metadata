@@ -33,7 +33,7 @@ python refseq2.py -i YOU_LIST_FILES_NAME -o YOU_OTUPUTFILES_NAME.csv -e YOU E-MA
 # The output shuld like this
 
 |RsUid|GbUid|AssemblyAccession|LastMajorReleaseAccession|LatestAccession|.....|
-|-|-|-|-|-
+|-|-|-|-|-|
 |15833318|15786928|GCF_009866865.1|GCF_009866865.1|.....|
 |23960828|23909188|GCF_016065415.1|GCF_016065415.1|.....|
 |6302018|6251988|GCF_003008635.1|GCF_003008635.1|.....|
