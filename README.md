@@ -26,7 +26,7 @@ GCF_014325982.1
 ## One step to sovle the problem
 
 ```
-python refseq2.py -i YOU_LIST_FILES_NAME -o YOU_OTUPUTFILES_NAME.csv -e YOU E-MAIL ADDRESS (such as:*******@*****.com)
+python refseq.py -i YOU_LIST_FILES_NAME -o YOU_OTUPUTFILES_NAME.csv -e YOU E-MAIL ADDRESS (such as:*******@*****.com)
 #The E-mail address was requested by NCBI datbase, not me
 ```
 
