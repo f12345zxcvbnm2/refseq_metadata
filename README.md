@@ -1,4 +1,4 @@
-# refseq_metadata
+# Get metadatas from NCBI refseq database by refseq_metadata
 
 A python scrip to get metadata infomation from NCBI by refseq ID.
 
