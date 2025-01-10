@@ -4,6 +4,8 @@ A python scrip to get metadata infomation from NCBI by refseq ID.
 
 This scrip will help your download the "all information(it shuld?)" from NCBI Refesq database. 
 
+**Build date: 10-1-2015**
+
 ## Required enviroments(solved by mamba strongly recommanded, or just find a env which have biopython)
 
 ```
