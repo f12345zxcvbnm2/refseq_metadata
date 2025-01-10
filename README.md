@@ -13,7 +13,7 @@ mamba install biopython=1.84
 ```
 
 ## Files perpared
-Your Refseq ID information one by one in you files, such as:
+Your Refseq ID information should be one by one in you files, such as:
 
 ```
 GCF_003695465.1
